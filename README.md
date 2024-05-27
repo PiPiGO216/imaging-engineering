@@ -1,2 +1,2 @@
 # imaging-engineering
-Built for collecting algorithms with both docs and codes
+Built for collecting various imaging algorithms with both docs and codes
