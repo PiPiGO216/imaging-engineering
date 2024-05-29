@@ -11,5 +11,6 @@ int main()
         printf("Cannot Read Current Image");
         return 0;
     }
+    printf("Done");
     return 1;
 }
